@@ -1,0 +1,7 @@
+File from: [./public/images/sunset.jpg]
+
+File to: [./public/compressed/sunset.jpg]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

@@ -1,0 +1,7 @@
+File from: [./public/images/bag.jpg]
+
+File to: [./public/compressed/bag.jpg]
+
+Compression algorithm: [-]
+
+Description: File does not exist!
