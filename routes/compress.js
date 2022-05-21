@@ -83,6 +83,7 @@ router.post('/stat', upload.any() ,function(req, res, next) {
       console.log("-------------");
 
       
+      
       res.statusCode = 200;
       res.setHeader("Content-Type" , "application/json");
       res.send(statistic);

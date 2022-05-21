@@ -1,0 +1,8 @@
+File from: [./public/images/2022_4_4_12_19_file_example_PNG_1MB.png]
+
+File to: [./public/compressed/2022_4_4_12_19_file_example_PNG_1MB.png]
+
+Compression algorithm: [pngquant]
+
+Description: Error: Command failed: D:\Projects\bebackend\node_modules\pngquant-bin\vendor\pngquant.exe --quality=20-50 -o ./public/compressed/2022_4_4_12_19_file_example_PNG_1MB.png ./public/images/2022_4_4_12_19_file_example_PNG_1MB.png
+  error: failed writing image to ./public/compressed/2022_4_4_12_19_file_example_PNG_1MB.png (16)
